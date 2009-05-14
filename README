@@ -1,0 +1,5 @@
+Primitive wrapper around DMenu, appropriate for using DMenu as an input/output (selection) interface.
+
+To use, simply:
+require 'rubygems'
+require 'dmenu'
